@@ -1,4 +1,4 @@
-# Movie Recommendation System Using Autoencoders
+# CineMatch: Personalized Movie Recommendations using Deep AutoEncoders
 
 ## Overview
 This repository contains a movie recommendation system built using autoencoders. The system leverages the **MovieLens** dataset to provide personalized recommendations based on user preferences.
